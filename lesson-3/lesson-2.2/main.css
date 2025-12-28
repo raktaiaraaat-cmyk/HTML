@@ -1,0 +1,101 @@
+.d1{
+    width: 100%;
+    height: 600px;
+    background-color: darkslategray;
+border: 3px solid black;
+border-radius: 20px;
+}
+
+.d2{
+    width: 57%;
+    height: 550px;
+    float: left;
+    background-color:cornflowerblue;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.d5{
+    width: 40%;
+    height: 550px;
+    float: right;
+    background-color:cornflowerblue; 
+    border: 3px solid black;
+    border-radius: 20px;
+    
+}
+
+.d3{
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+    height: 240px;
+    background-color: aqua;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.d4{
+    width: 90%;
+    height: 190px;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.d6{
+    float: left;
+    width: 30%;
+    height: 150px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.d7{
+    width: 65%;
+    height: 150px;
+    float: right; 
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+
+
+
+.d10{
+   width: 75%;
+    height: 150px;
+    float: left;
+    background-color: aqua; 
+    padding: 10px;
+    margin: 20px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+
+.d11{
+    width: 150px;
+    height: 90px;
+    float: left;
+    background-color: aqua ;
+    padding: 80px;
+    margin: 35px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.d12{
+    width: 130px;
+    height: 30px;
+    float: left;
+    background-color: gray;
+    padding: 30px;
+    margin: -60px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
